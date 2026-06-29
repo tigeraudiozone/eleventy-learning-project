@@ -1,1 +1,0 @@
-const htmlmin = require("html-minifier-terser");
